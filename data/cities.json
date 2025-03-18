@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Shanghai",
+    "population": 24256800,
+    "area": 6340,
+    "density": 3826,
+    "country": "China"
+  },
+  {
+    "name": "Delhi",
+    "population": 16787941,
+    "area": 1484,
+    "density": 11313,
+    "country": "India"
+  },
+  {
+    "name": "Lagos",
+    "population": 16060303,
+    "area": 1171,
+    "density": 13712,
+    "country": "Nigeria"
+  },
+  {
+    "name": "Istanbul",
+    "population": 14160467,
+    "area": 5461,
+    "density": 2593,
+    "country": "Turkey"
+  },
+  {
+    "name": "Tokyo",
+    "population": 13513734,
+    "area": 2191,
+    "density": 6168,
+    "country": "Japan"
+  },
+  {
+    "name": "Sao Paulo",
+    "population": 12038175,
+    "area": 1521,
+    "density": 7914,
+    "country": "Brazil"
+  },
+  {
+    "name": "Mexico City",
+    "population": 8874724,
+    "area": 1486,
+    "density": 5974,
+    "country": "Mexico"
+  },
+  {
+    "name": "London",
+    "population": 8673713,
+    "area": 1572,
+    "density": 5431,
+    "country": "United Kingdom"
+  },
+  {
+    "name": "New York City",
+    "population": 8537673,
+    "area": 784,
+    "density": 10892,
+    "country": "United States"
+  },
+  {
+    "name": "Bangkok",
+    "population": 8280925,
+    "area": 1569,
+    "density": 5279,
+    "country": "Thailand"
+  }
+]
